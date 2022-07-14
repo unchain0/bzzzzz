@@ -1,0 +1,15 @@
+C:\Curso\Variaveis\Variaveis\bin\Debug\Variaveis.exe.config
+C:\Curso\Variaveis\Variaveis\bin\Debug\Variaveis.exe
+C:\Curso\Variaveis\Variaveis\bin\Debug\Variaveis.pdb
+C:\Curso\Variaveis\Variaveis\obj\Debug\Variaveis.csprojAssemblyReference.cache
+C:\Curso\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.CoreCompileInputs.cache
+C:\Curso\Variaveis\Variaveis\obj\Debug\Variaveis.exe
+C:\Curso\Variaveis\Variaveis\obj\Debug\Variaveis.pdb
+C:\Users\felip\source\C#\C# Completo e Profissional\Variaveis\Variaveis\bin\Debug\Variaveis.exe.config
+C:\Users\felip\source\C#\C# Completo e Profissional\Variaveis\Variaveis\bin\Debug\Variaveis.exe
+C:\Users\felip\source\C#\C# Completo e Profissional\Variaveis\Variaveis\bin\Debug\Variaveis.pdb
+C:\Users\felip\source\C#\C# Completo e Profissional\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.AssemblyReference.cache
+C:\Users\felip\source\C#\C# Completo e Profissional\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\felip\source\C#\C# Completo e Profissional\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\C#\C# Completo e Profissional\Variaveis\Variaveis\obj\Debug\Variaveis.exe
+C:\Users\felip\source\C#\C# Completo e Profissional\Variaveis\Variaveis\obj\Debug\Variaveis.pdb
